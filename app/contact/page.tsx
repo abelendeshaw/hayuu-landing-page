@@ -30,9 +30,9 @@ export default function Contact() {
       {/* Hero Section */}
       <section className="bg-gradient-to-r from-blue-600 to-indigo-700 text-white py-20">
         <div className="container mx-auto px-4 text-center">
-          <h1 className="text-4xl md:text-5xl font-bold mb-6">Let's Start Your Digital Journey</h1>
+          <h1 className="text-4xl md:text-5xl font-bold mb-6">Let&apos;s Start Your Digital Journey</h1>
           <p className="text-xl opacity-90 max-w-3xl mx-auto">
-            Ready to transform your school with innovative technology? Get in touch with our team of experts and let's discuss your digital transformation goals.
+            Ready to transform your school with innovative technology? Get in touch with our team of experts and let&apos;s discuss your digital transformation goals.
           </p>
         </div>
       </section>

@@ -33,7 +33,7 @@ export default function Products() {
           <h1 className="text-4xl md:text-5xl font-bold mb-6">Our Products</h1>
           <p className="text-xl opacity-90 max-w-3xl mx-auto">
             Discover our flagship platforms designed to revolutionize education in Ethiopia. 
-            From learning management to school administration, we've got you covered.
+            From learning management to school administration, we&apos;ve got you covered.
           </p>
         </div>
       </section>

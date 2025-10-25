@@ -45,7 +45,7 @@ export default function Home() {
             <p className="text-lg text-gray-600 mb-8">
               Hayyuu Technologies PLC is at the forefront of educational digital transformation, 
               providing comprehensive solutions that bridge the gap between traditional learning 
-              and modern technology. We're committed to empowering schools, teachers, and students 
+              and modern technology. We&apos;re committed to empowering schools, teachers, and students 
               across Ethiopia with innovative digital tools and platforms.
             </p>
             <Link 
@@ -156,7 +156,7 @@ export default function Home() {
         <div className="container mx-auto px-4 text-center">
           <h2 className="text-3xl font-bold mb-4">Ready to Transform Your School?</h2>
           <p className="text-xl mb-8 opacity-90">
-            Join the digital revolution in education. Let's build the future of learning together.
+            Join the digital revolution in education. Let&apos;s build the future of learning together.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link 

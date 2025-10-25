@@ -11,7 +11,7 @@ export default function About() {
         <div className="container mx-auto px-4 text-center">
           <h1 className="text-4xl md:text-5xl font-bold mb-6">About Hayyuu Technologies</h1>
           <p className="text-xl opacity-90 max-w-3xl mx-auto">
-            Building the Future of Learning — Digitally. We're transforming education in Ethiopia through innovative technology solutions.
+            Building the Future of Learning — Digitally. We&apos;re transforming education in Ethiopia through innovative technology solutions.
           </p>
         </div>
       </section>
@@ -26,7 +26,7 @@ export default function About() {
                 <p className="text-gray-600 mb-4">
                   Founded with a vision to revolutionize education in Ethiopia, Hayyuu Technologies PLC 
                   emerged from the recognition that traditional learning methods needed to evolve with 
-                  the digital age. We saw the potential to bridge the gap between Ethiopia's rich 
+                  the digital age. We saw the potential to bridge the gap between Ethiopia&apos;s rich 
                   educational heritage and modern technological capabilities.
                 </p>
                 <p className="text-gray-600 mb-4">

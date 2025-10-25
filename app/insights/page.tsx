@@ -50,7 +50,7 @@ export default function Insights() {
                   The Future of Digital Learning in Ethiopia: Trends and Opportunities
                 </h2>
                 <p className="text-gray-600 mb-6">
-                  Explore how Ethiopia's education sector is embracing digital transformation, 
+                  Explore how Ethiopia&apos;s education sector is embracing digital transformation, 
                   the challenges we face, and the incredible opportunities that lie ahead. 
                   Learn from real case studies and success stories from schools across the country.
                 </p>
@@ -79,7 +79,7 @@ export default function Insights() {
                   </svg>
                 </div>
                 <p className="text-sm text-gray-600 text-center">
-                  Video: "Digital Transformation Success Stories"
+                  Video: &quot;Digital Transformation Success Stories&quot;
                 </p>
               </div>
             </div>
